@@ -1251,5 +1251,16 @@
     "email": "lynnj",
     "website": "",
     "avatar": "https://i.ibb.co/qMBwqHwC/lynn-With-AMysterious-Umbrella-Named-Perry.png"
+  },
+  {
+    "name": "Sahil",
+    "department": "Moderation",
+    "role": "Conduct and Moderation",
+    "acknowledged": false,
+    "bio": "",
+    "slackId": "U08PUHSMW4V",
+    "email": "sahil@conduct.hackclub.com",
+    "website": "",
+    "avatar": "https://cdn.hackclub.com/01a022cb-4489-73bb-9132-5db42f4f857c/sahilsquare%20-%20Copy.png"
   }
 ]
